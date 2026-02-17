@@ -1,13 +1,5 @@
 # biblioteca
-<div align="center">
-  <h1 align="center">
-    LITERAGOOD
-    <br />
-    <br />
 
-[![BANMNER-LOW.jpg](https://i.postimg.cc/k4fBnm06/BANMNER-LOW.jpg)](https://postimg.cc/k6RnckXq)
-
-  </h1>
 </div>
 
 #  Tech Stack:
